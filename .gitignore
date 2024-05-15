@@ -1,0 +1,11 @@
+.vs/
+DependencyInversion/bin/
+DependencyInversion/obj/
+InterfaceSegregation/bin/
+InterfaceSegregation/obj/
+LiskovSubstitution/bin/
+LiskovSubstitution/obj/
+Open-Closed/bin/
+Open-Closed/obj/
+SingleResponsibility/bin/
+SingleResponsibility/obj/
